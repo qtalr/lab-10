@@ -45,21 +45,21 @@ In your analysis process file,
 
 1. add a section which provides a brief description of the dataset you will be using and the analysis setup and hypothesis. Include:
 
-  - the name and/ or source of the data
-  - the nature of the data
-  - the response variable and the explanatory variable(s)
+- the name and/ or source of the data
+- the nature of the data
+- the response variable and the explanatory variable(s)
 
 2. add a section which provides a description of the explanatory variables you will use and how they are operationalized. Include:
 
-  - a description of the response variable and the explanatory variable(s)
-    - including the unit of observation and the key variables of interest in the dataset
-  - a description of the process you will use to inspect the data and perform diagnostic checks
+- a description of the response variable and the explanatory variable(s)
+  - including the unit of observation and the key variables of interest in the dataset
+- a description of the process you will use to inspect the data and perform diagnostic checks
 
 3. add a section which provides a description of the modeling process you will be using to conduct the analysis. Include:
 
-  - a description of the high-level modeling process you will be using to conduct the analysis (e.g. chi-square test, *t*-test, or logistic or linear regression)
-  - for the modeling process, how will you operationalize the model (e.g. chi-square test of independence, *t*-test for difference in means, or logistic or linear regression fit)
-  - a description of the process you will use to derive the $p$-value and and confidence intervals
+- a description of the high-level modeling process you will be using to conduct the analysis (e.g. Chi-square test, *t*-test, or logistic or linear regression)
+- for the modeling process, how will you operationalize the model (e.g. Chi-square test of independence, *t*-test for difference in means, or logistic or linear regression fit)
+- a description of the process you will use to derive the $p$-value and confidence intervals
 
 4. Implement and make sure to organize your analysis process in a way that is reproducible. This means that you should be able to run the code in your process file and reproduce the process (use `set.seed()` for any sampling process, for example). Use the `data/analysis` (or similar) directory to store any derived datasets used in the analysis.
 
@@ -77,12 +77,12 @@ In your analysis process file,
 
 Some questions to consider:
 
-  - What did you learn?
-  - What did you find most/ least challenging?
-  - What resources did you consult?
-    - Instructor? R or Quarto documentation, Websites (provide links)?
-  - What more would you like to know about inferential analysis?
-    - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
+- What did you learn?
+- What did you find most/ least challenging?
+- What resources did you consult?
+  - Instructor? R or Quarto documentation, Websites (provide links)?
+- What more would you like to know about inferential analysis?
+  - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
